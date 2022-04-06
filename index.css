@@ -70,7 +70,7 @@ section{
 
 .header{
     position: fixed;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
     top: 0; left: 0; right: 0;
     z-index: 10000;
     background: #333;
@@ -287,7 +287,7 @@ section{
         transform: translate(0rem, -8rem);
     }
     
-    .btnE{
+    .btn{
     font-size: 1.25rem;
     border-radius: .5rem;
     font-weight: 600;
