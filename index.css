@@ -70,7 +70,7 @@ section{
 
 .header{
     position: fixed;
-    margin-bottom: 25px;
+    margin-bottom: 50px;
     top: 0; left: 0; right: 0;
     z-index: 10000;
     background: #333;
@@ -189,11 +189,11 @@ section{
     }
 
     .header{
-        padding: 0.75rem 21rem;
+        padding: 1.5rem 2rem;
     }
 
     section{
-        padding: 1rem;
+        padding: 2rem;
     }
 
 }
@@ -286,12 +286,6 @@ section{
         max-width: 100%;
         transform: translate(0rem, -8rem);
     }
-    
-    .btn{
-    font-size: 1.25rem;
-    border-radius: .5rem;
-    font-weight: 600;
-}
     
 }
 
