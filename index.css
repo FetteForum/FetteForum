@@ -287,5 +287,11 @@ section{
         transform: translate(0rem, -8rem);
     }
     
+    .btn{
+    font-size: 1.25rem;
+    border-radius: .5rem;
+    font-weight: 600;
+}
+    
 }
 
