@@ -490,9 +490,16 @@ main{
 }
 
 .card_title{
-    font-size: 3rem;
-    font-weight: 500;
+    font-size: 1rem;
+    font-weight: 200px;
     margin-bottom: 20px;
+    width: 100%;
+    border-bottom-left-radius: 2rem;
+    border-bottom-right-radius: 2rem;
+}
+
+.card_title h2{
+    font-size: 1.75rem;
 }
 
 .card_info{
