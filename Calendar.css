@@ -132,6 +132,9 @@ html::-webkit-scrollbar-thumb{
     display: none;
 }
 
+.content h3{
+    margin: 5%;
+}
 
 .wrapper{
     width: 95%;
@@ -178,23 +181,23 @@ html::-webkit-scrollbar-thumb{
 }
 
 .latest{
+    text-align: center;
+    font-size: 5rem;
     margin-top: 5rem;
     background-color: #ffffff
 }
 
-.thisweek-heading h2,
-.heading h2{
- font-size: 3rem;   
-}
 
-.thisweek-heading,
+
 .heading{
     border-bottom: 3px solid var(--main-color);
     margin: 30px 30px 30px 30px;
     
 }
 
-
+.heading{
+    font-size: 5rem;
+}
 
 
 
